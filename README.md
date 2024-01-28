@@ -1,1 +1,1 @@
-# MyAll-HTML-Assignments
+# MyAll-JavaScript-Assignments
